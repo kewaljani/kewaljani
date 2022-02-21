@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kewal Jani</h1>
-<h3 align="center">I am currently pursuing masters from NYU and looking for Internship and Full-time opportunities</h3>
+<h3 align="center">I am currently pursuing masters from NYU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kewaljani&label=Profile%20views&color=0e75b6&style=flat" alt="kewaljani" /> </p>
 
