@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [UNUM (Unification for Underground Resilience Measures)](https://engineering.nyu.edu/news/nyu-tandon-and-wagner-project-look-below-surface-make-nyc-more-resilient)
 
-- 🌱 I’m currently learning **Pythorch, Node.js, Bentely**
+- 🌱 I’m currently learning **Pythorch, Node.js, React**
 
-- 🤝 I’m looking for help with **Internships and Full-Time opportunities**
+- 🤝 I’m looking for help with **Full-Time opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kewaljani](https://github.com/kewaljani)
 
