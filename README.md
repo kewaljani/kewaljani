@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kewal Jani</h1>
-<h3 align="center">I am currently working as software developer at amazon</h3>
+<h3 align="center">I have worked as a software developer at amazon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kewaljani&label=Profile%20views&color=0e75b6&style=flat" alt="kewaljani" /> </p>
 
-- 🔭 I’m currently working on [UNUM (Unification for Underground Resilience Measures)](https://engineering.nyu.edu/news/nyu-tandon-and-wagner-project-look-below-surface-make-nyc-more-resilient)
+- 🔭 I have worked on [UNUM (Unification for Underground Resilience Measures)](https://engineering.nyu.edu/news/nyu-tandon-and-wagner-project-look-below-surface-make-nyc-more-resilient)
 
-- 🌱 I’m currently learning **Pythorch, Node.js, React**
+- 🌱 I’m currently learning **Pythorch, Node.js, React** 
 
-- 🤝 I’m looking for help with **Full-Time opportunities**
+- 🤝 I’m actively for help with **Full-Time opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kewaljani](https://github.com/kewaljani)
 
